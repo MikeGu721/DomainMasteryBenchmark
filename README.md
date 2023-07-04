@@ -1,3 +1,3 @@
 # DomainMasteryBenchmark
 
-The benchmark will be uploaded later on.
+Please see: https://github.com/MikeGu721/XiezhiBenchmark
